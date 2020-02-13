@@ -1,6 +1,6 @@
 ---
 title: "Interactive Visualizations"
-author: "Charles Lang"
+author: "Sizheng Zhu"
 date: "1/29/2018"
 output: html_document
 ---
@@ -126,8 +126,8 @@ devtools::install_github("rstudio/shinyapps")
 Sys.setlocale(locale="en_US.UTF-8")
 
 rsconnect::setAccountInfo(name='sizhengzhu',
-			  token='C691303E0FD828D6A0B6240A24C05165',
-			  secret='llJpGpB1tmuHUsWKa11ig7NxBSERmPAeYvF8IJ2k')
+			  token='',
+			  secret='')
 
 library(rsconnect)
 
